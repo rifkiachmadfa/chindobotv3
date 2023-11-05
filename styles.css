@@ -1,0 +1,92 @@
+body {
+    background-color:#e7e7e7;
+    color: rgb(39, 39, 39);
+    font-family: 'Sometype Mono', monospace;
+}
+
+.greeting {
+    font-weight: 900;
+    color: #2B3499;
+}
+
+.opening {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.card {
+    color: rgb(22, 22, 22);
+    background-color: #FFD099;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 10px 10px #333;
+}
+
+.login {
+    margin-top: 50px;
+    height: 200px;
+    width: 400px;
+}
+
+.contentLogin {
+    margin: 20px;
+}
+
+.judulSandi {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #FF6C22;
+    color: white;
+    border-radius: 0;
+    box-shadow: 6px 6px #333;
+    border: none;
+    --bs-btn-hover-bg : #2B3499;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+p {
+    font-size: 12px;
+}
+
+#notifSandi {
+    display: none;
+}
+
+.surpriseMe {
+    margin-top: 45px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonMenu {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.akhir {
+    height: 360px;
+    display: flex;
+    align-items: flex-end;
+}

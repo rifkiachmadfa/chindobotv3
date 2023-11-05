@@ -1,0 +1,41 @@
+.karoselFoto {
+    height: 200px;
+    width: 300px;
+}
+
+.container {
+    height: 44vh;
+}
+
+.carousel-item {
+    height: 220px;
+}
+.macan {
+    width: 80px;
+}
+
+.foto1 {
+    width: 80px;
+}
+
+.opening {
+    margin-bottom: 50px;
+}
+
+.footer {
+    height: 150px;
+    background-color: #2B3499;
+    margin-top: 80px;
+}
+
+.bgIcon {
+    width: 100px;
+    position: relative;
+    left: 20px;
+    bottom: 250px;
+}
+
+.end {
+    margin: 0;
+    color: white;
+}
